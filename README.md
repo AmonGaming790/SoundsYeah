@@ -23,7 +23,5 @@
 2. Download the latest `SoundsYeah.exe` and the associated sound packs.
 3. Run the executable and enjoy!
 
-### For Developers (Run from Source)
-To run the script directly, you will need to install the following dependencies:
-```bash
-pip install customtkinter pygame pynput Pillow pystray
+### For Developers
+* **I created a source code for the app. You can find me**
