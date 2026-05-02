@@ -20,7 +20,7 @@
 
 ### For Users (Download the App)
 1. Go to the [Releases](https://github.com/AmonGaming790/SoundsYeah/releases) section.
-2. Download the latest `SoundsYeah.exe` and the associated sound packs.
+2. Download the latest `SoundsYeah_vX.X.X_xxx.exe`.
 3. Run the executable and enjoy!
 
 ### For Developers
